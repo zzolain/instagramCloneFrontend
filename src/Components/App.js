@@ -7,4 +7,4 @@ export default () => (
   <ThemeProvider theme={theme}>
     <GlobalStyles />
   </ThemeProvider>
-)
+);
